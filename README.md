@@ -1,2 +1,3 @@
 # tagging_gui
-a small program for labelling text data constructed in tkinter
+A small program for labelling text data constructed using tkinter
+labels are pre-defined
