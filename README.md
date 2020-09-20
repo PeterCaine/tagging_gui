@@ -1,6 +1,7 @@
 # tagging_gui
-A small program for labelling text data constructed using tkinter
-labels are pre-defined
+A small program for labelling text data constructed using tkinter.
+
+Labels are pre-defined.
 
 
 <p align="center">
